@@ -24,4 +24,4 @@
   
   ##
   
-  ![Snake animation](https://github.com/Gttolla/Gttolla/blob/output/github-contribution-grid-snak
+  ![Snake animation](https://github.com/Gttolla/Gttolla/blob/output/github-contribution-grid-snake.svg)
