@@ -1,4 +1,4 @@
-### Hi there! I'm Lucas Pedro Chaves aka Gttolla 👋
+# Hi there! I'm Lucas Pedro Chaves aka Gttolla 👋
 ##
 - 🌱 I'm studying to be a full stack developer and know a little bit of data science.
 - 🤔 I'm interested in Typescript, React, NodeJs, Spring Boot, Python and maybe Flutter in the future.
@@ -25,3 +25,8 @@
   ##
   
   ![Snake animation](https://github.com/Gttolla/Gttolla/blob/output/github-contribution-grid-snake.svg)
+
+  ##
+  
+  
+  ### ⚠️ My projects still don't have a proper README, but they will soon ⚠️
