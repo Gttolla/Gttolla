@@ -26,11 +26,6 @@
  
   </div>
   
-  ##
-  
-  ![Snake animation](https://github.com/Gttolla/Gttolla/blob/output/github-contribution-grid-snake.svg)
-
-  ##
-  
+  ##  
   
   ### ⚠️ My projects still don't have a proper README, but they will soon ⚠️
