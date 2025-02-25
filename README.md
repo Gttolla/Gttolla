@@ -1,4 +1,6 @@
-# Hi there! I'm Lucas Pedro Chaves aka Gttolla 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004DFF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=004DFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+there!+I'm+Lucas+Pedro+Chaves;I'm+17+years+old;I'm+studying+software+analysis+and+development;Welcome!+😉)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
@@ -7,6 +9,8 @@
 - ✨ Focused on building scalable applications and creating innovative solutions.
 
 ---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gttolla&bg_color=0d1117&color=004DFF&line=004DFF&point=5191c1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🛠️ Tech Stack
 
