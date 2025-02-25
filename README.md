@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently studying to become a **Full Stack Developer** and learning a bit of **Software Analysis**.
 - 🤔 Passionate about **TypeScript, Expo, React, Node.js, MongoDB**, and interested in learning more about **Java**/**Angular**.
-- ✨ Focused on building scalable applications and improving my backend skills.
+- ✨ Focused on building scalable applications and creating innovative solutions.
 
 ---
 
