@@ -6,7 +6,7 @@
 
 - Passionate about **TypeScript, Expo, React, Node.js, MongoDB**, and interested in learning more about **Java** and **Angular**.
 - Focused on building **scalable applications** and creating **innovative solutions**.
-- **Applicator and co-creator** of the **GitTech** workshop, developed at Etec Martinho di Ciero, with more than **100 certified students**.
+- **Applicator and co-creator** of the **GitTec** workshop, developed at Etec Martinho di Ciero, with more than **100 certified students**.
 
 
 ---
