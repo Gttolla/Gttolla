@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004DFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=56E873&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=004DFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+there!+I'm+Lucas+Pedro+Chaves;I'm+studying+Software+Analysis+and+Development;Here+you+can+find+the+projects+I+am+working+on;And+my+studies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56E873&size=35&center=true&vCenter=true&width=1000&lines=Hi,+there!+I'm+Lucas+Pedro+Chaves;I'm+studying+Software+Analysis+and+Development;Here+you+can+find+the+projects+I+am+working+on;And+my+studies)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
@@ -11,7 +11,7 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gttolla&bg_color=0d1117&color=004DFF&line=004DFF&point=5191c1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gttolla&bg_color=0d1117&color=56E873&line=56E873&point=56E873&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🛠️ Tech Stack
 
