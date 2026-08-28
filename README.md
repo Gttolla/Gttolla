@@ -11,8 +11,6 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucas-p-chaves&bg_color=0d1117&color=56E873&line=56E873&point=56E873&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🛠️ Tech Stack
 
 ### 🖥️ Languages
